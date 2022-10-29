@@ -2,7 +2,7 @@
 
 
 - 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
-- 👀 I’m looking for a Programmer position and collaborate in some volunteer project.
+- 👀 I'm looking for a Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
 - 🌱 I’m currently doing training and certification AWS Cloud
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marclnomaia/a80136ff022365b562924bbfb57dec02/raw/a7c5f89236519ced8f77fcff8b0e665275d4d61d/gitCard.svg"/>
