@@ -49,7 +49,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="[https://www.linkedin.com/in/marcilino-m-108007171/]" target="_blank">
+<a href="https://www.linkedin.com/in/marcilino-m-108007171/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
