@@ -1,4 +1,4 @@
-- 👋 Hi dear, I’m Marcilino da Maia recently graduated in Computer Programming at Sault College-Ontario-CA
+- 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
 - 👀 I’m looking for a Programmer position and collaborate in some volunteer project.
 - 🌱 I’m currently doing training and certification AWS Cloud
 
