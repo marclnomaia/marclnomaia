@@ -19,7 +19,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+ 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,7 +35,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+ ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=marclnomaia&show_icons=true&theme=vision-friendly-dark" alt="marclnomaia's stats"/>
