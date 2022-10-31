@@ -52,6 +52,10 @@
 <a href="https://www.linkedin.com/in/marcilino-m-108007171/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marcilino_damaia-05122A?stylee=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
+  <a href="https://www.linkedin.com/in/marcilino-m-108007171/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-marcilino_damaia-05122A?stylee=flat&logo=instagran" alt="linkedin"/>
+</a>
 
 </p>
 
