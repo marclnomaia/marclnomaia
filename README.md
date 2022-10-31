@@ -19,7 +19,7 @@
 
 <br><br>
 
- 🛠 &nbsp;Tech Stack
+ ##🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -53,8 +53,8 @@
   <img align="center" src="https://img.shields.io/badge/-marcilino_damaia-05122A?stylee=flat&logo=linkedin" alt="linkedin"/>
 </a>
   
-  <a href="https://www.linkedin.com/in/marcilino-m-108007171/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marcilino_damaia-05122A?stylee=flat&logo=instagran" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/marcilino](https://www.facebook.com/marcelino.maia.560-m-108007171/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-marcilino_damaia-05122A?stylee=flat&logo=facebook" alt="linkedin"/>
 </a>
 
 </p>
