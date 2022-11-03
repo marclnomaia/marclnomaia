@@ -1,25 +1,20 @@
 
 
 
-- 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
-- 👀 I'm looking for a Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
-- 🌱 I’m currently doing training and certification AWS Cloud
+
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marclnomaia/a80136ff022365b562924bbfb57dec02/raw/a7c5f89236519ced8f77fcff8b0e665275d4d61d/gitCard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/marclnomaia/marclnomaias/master/hi.gif" height="30px">, I'm Marcilino da Maia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marclnomaia&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Recently graduated in Computer Programming at Sault College-Ontario-CA
-
-- 👀 I’m looking for a Programmer position and collaborate in some volunteer project.
-
+- 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
+- 👀 I'm looking for a Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
+- 🌱 I’m currently doing training and certification AWS Cloud
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, JAVA, C++, PYTHON, C#.NET**
 
 <!--
 
-<br><br>
-
- ##🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,11 +30,11 @@
 
 <br><br>
 
- ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marclnomaia&show_icons=true&theme=vision-friendly-dark" alt="marclnomaia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclnomaia&layout=compact&theme=vision-friendly-dark" alt="marclnomaia's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 -->
 
