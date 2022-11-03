@@ -4,7 +4,7 @@
 
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marclnomaia/a80136ff022365b562924bbfb57dec02/raw/a7c5f89236519ced8f77fcff8b0e665275d4d61d/gitCard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/marclnomaia/marclnomaias/master/hi.gif" height="30px">, I'm Marcilino da Maia</h1>
+<h1 align="left">Hi<height="30px">, I'm Marcilino da Maia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marclnomaia&color=yellow" alt="Profile views" /> </p>
 
 - 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
