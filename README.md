@@ -7,7 +7,7 @@
 
 - 👋 Hi dear, I’m Marcilino da Maia, I'm a Computer Programming at Sault College-Ontario-CA
 - 👀 I'm looking for my firt Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
-- 🌱 I’m currently doing training and certification AWS Cloud
+- 🌱 I’m currently extra courses in JavaScript and C-sharp languages
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, JAVA, C++, PYTHON, C#.NET**
 
 <div style="display: inline_block"><br>
