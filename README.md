@@ -5,8 +5,8 @@
 <h1 align="left">Hi<height="30px">, I'm Marcilino da Maia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marclnomaia&color=yellow" alt="Profile views" /> </p>
 
-- 👋 Hi dear, I’m Marcilino da Maia, I'm recently graduated in Computer Programming at Sault College-Ontario-CA
-- 👀 I'm looking for a Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
+- 👋 Hi dear, I’m Marcilino da Maia, I'm a Computer Programming at Sault College-Ontario-CA
+- 👀 I'm looking for my firt Programming position in a company that is looking for new talent, that has the values of equality, diversity and inclusion, and integrity..
 - 🌱 I’m currently doing training and certification AWS Cloud
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, JAVA, C++, PYTHON, C#.NET**
 
